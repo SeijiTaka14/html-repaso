@@ -1,0 +1,11 @@
+table, tr, th, td {
+    border: solid 1px;
+}
+
+table {
+    width: 400px;
+}
+
+.enlace {
+    display: block;
+}
